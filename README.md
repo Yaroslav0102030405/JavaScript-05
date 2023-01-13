@@ -1,4 +1,4 @@
-# JS-lesson-5.5\
+# JS-lesson-5
 
 План занятия
 
